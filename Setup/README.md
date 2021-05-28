@@ -1,2 +1,0 @@
-# TensorFlowExamples
-TensorFlow examples
