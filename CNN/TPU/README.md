@@ -1,3 +1,3 @@
-# TPU
+# TPU examples
 
-- [Classification examples](./Classification/README.md) 
+- [Classification examples](./Classification/) 
