@@ -1,5 +1,7 @@
 # ANN examples
 
-- [Regression](./Regression/README.md)
+- [Regression examples](./Regression/)
 
-- [TensorBoard](./TensorBoard/README.md)
+- [GradientTape examples](./GradientTape/)
+
+- [TensorBoard examples](./TensorBoard/)
