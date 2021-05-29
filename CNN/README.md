@@ -1,4 +1,4 @@
 # CNN
 
-- [TPU](./TPU/README.md)
+- [TPU](./TPU/)
 
