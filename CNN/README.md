@@ -2,7 +2,7 @@
 
 - [Classification examples](./Classification/)
 
-- [Class activation map examples](./ClassActivationMap/)
+- [Class Activation Map examples](./ClassActivationMap/)
 
 - [TripletLoss examples](./TripletLoss/)
 
