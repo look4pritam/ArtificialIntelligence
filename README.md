@@ -1,7 +1,9 @@
 # TensorFlow Examples
 
-## [ANN examples](./ANN/README.md)
+## [ANN examples](./ANN/)
 
-## [CNN examples](./CNN/README.md)
+## [CNN examples](./CNN/)
 
-## [TensorBoard examples](./ANN/TensorBoard/README.md)
+## [TensorBoard examples](./ANN/TensorBoard/)
+
+## [TPU examples](./CNN/TPU/)
