@@ -1,4 +1,8 @@
 # CNN
 
-- [TPU](./TPU/)
+- [Classification examples](./Classification/)
+
+- [TripletLoss examples](./TripletLoss/)
+
+- [TPU examples](./TPU/)
 
