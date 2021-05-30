@@ -1,11 +1,14 @@
 # TensorFlow Examples
 
-## [ANN examples](./ANN/)
+- [ANN examples](./ANN/)
 
-## [CNN examples](./CNN/)
+- [CNN examples](./CNN/)
 
-## [Triplet loss examples](./CNN/TripletLoss/)
+- [Triplet loss examples](./CNN/TripletLoss/)
 
-## [TensorBoard examples](./ANN/TensorBoard/)
+- [TensorBoard examples](./ANN/TensorBoard/)
 
-## [TPU examples](./CNN/TPU/)
+- [TPU examples](./CNN/TPU/)
+
+- [Setup examples](./Setup/)
+
