@@ -8,6 +8,8 @@
 
 - [TensorBoard examples](./ANN/TensorBoard/)
 
+- [Distributed training examples](./DistributedTraining/)
+
 - [TPU examples](./CNN/TPU/)
 
 - [Setup examples](./Setup/)
