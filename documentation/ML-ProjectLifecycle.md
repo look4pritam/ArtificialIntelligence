@@ -42,8 +42,8 @@
 - Maintain model performance
 
 ### Access Project Feasibility
-- Human Level Performance (HLP) - Unstrctured dataset
-- Feature engineering - Strctured dataset
+- Human Level Performance (HLP) - Unstructured dataset
+- Feature engineering - Structured dataset
 - Previous project history - Estimate project progress
 
 ### Define Metrics (Search Engine)
