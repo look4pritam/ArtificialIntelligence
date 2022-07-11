@@ -19,7 +19,7 @@
 - Machine learning dataset types
 - Establish baseline
   - Estimate initial metrics for base line model
-- Lable dataset
+- Label dataset
   - Use either open dataset or collect in-house dataset
   - Clean dataset
 - Validate dataset
