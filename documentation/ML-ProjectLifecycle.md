@@ -29,7 +29,7 @@
   - Select features for model training
   - Preprocess dataset
 
-## Modeling
+## Modelling
 - [Iterative process](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/lecture/OFPbm/key-challenges) - Model + hyperparameters + Data - Training - Error analysis
 - [Establish baseline model performance](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/lecture/KYu4T/establish-a-baseline)
 - Model-centric AI development 
