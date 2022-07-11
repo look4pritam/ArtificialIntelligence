@@ -1,7 +1,7 @@
 # [Machine Learning Project Lifecycle](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/lecture/PhRTU/steps-of-an-ml-project)
 - Project scoping
 - Dataset collection
-- Modeling
+- Modelling
 - Deployment
  
 ## [Project Scoping](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/lecture/Qe96S/scoping-process)
@@ -13,7 +13,7 @@
   - Select valuable and feasible problems 
 - Determine milestones
 - Define metrics 
-- Estimate resorce requirement - Data, time, and people
+- Estimate resource requirement - Data, time, and people
 
 ## Dataset Collection  
 - Machine learning dataset types
