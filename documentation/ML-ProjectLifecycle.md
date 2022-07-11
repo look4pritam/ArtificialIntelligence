@@ -55,7 +55,7 @@
 - Improve performance towards business metrics
 - Estimate of business metrics from machine learning metrics
    
-### Machine Learning Dataset types
+### Machine Learning Dataset Types
 - Structured dataset - Spreadsheet dataset
 - Unstructured dataset - Images, video, audio, and texts
    
