@@ -3,6 +3,7 @@
 - ResNet
 - MobileNet
   - Depthwise Separable Convolution
+    - Network speed and power consumption - Proportional - Number of fused Multiplication and Addition operations
   - Width multiplier 
     - Adjust the number of channels 
     - {1, 0.75, 0.5, 0.25}
