@@ -3,7 +3,7 @@
 - ResNet
 - MobileNet
   - Depthwise Separable Convolution
-  - 
+  - Width multiplier - Adjust the number of channels 
 
 # CNN examples
 
