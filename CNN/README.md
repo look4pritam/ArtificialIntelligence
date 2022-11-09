@@ -1,6 +1,8 @@
 # CNN Architectures
 - VGGNet
+  - 3x3 Convolutions
 - ResNet
+  - Shortcuts
 - MobileNet
   - Depthwise Separable Convolution
     - Network speed and power consumption - Proportional - Number of fused Multiplication and Addition operations
