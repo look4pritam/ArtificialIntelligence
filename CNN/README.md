@@ -3,7 +3,12 @@
 - ResNet
 - MobileNet
   - Depthwise Separable Convolution
-  - Width multiplier - Adjust the number of channels 
+  - Width multiplier 
+    - Adjust the number of channels 
+    - {1, 0.75, 0.5, 0.25}
+  - Resolution multiplier 
+    - Adjust the spatial dimensions of the input image and the feature maps
+    -  {224, 192, 160, 128}
 
 # CNN examples
 
