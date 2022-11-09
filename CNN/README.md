@@ -2,6 +2,8 @@
 - VGGNet
 - ResNet
 - MobileNet
+  - Depthwise Separable Convolution
+  - 
 
 # CNN examples
 
