@@ -1,0 +1,11 @@
+# MLPerf Benchmark Suite
+- MLPerf Training and MLPerf Inference
+- Evaluate machine learning frameworks
+- Image Classification
+- Object Detection (Lightweight)
+- Object Detection (Heavyweight)
+- Biomedical Image Segmentation
+- Automatic Speech Recognition
+- Natural Language Processing 
+- Recommendation
+- Reinforcement Learning
