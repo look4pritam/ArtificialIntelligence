@@ -1,6 +1,6 @@
 # Topics
 
-## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+## Artificial Intelligence
 - [What is AI ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 - [AI Classification](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 
@@ -8,60 +8,16 @@
 - [What is ML ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 - [ML Classification](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 
-## 
+## Supervised Learning
+- [What is Supervised Learning ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 
-# [AI Classification - One](https://www.mygreatlearning.com/blog/what-is-artificial-intelligence/)
-- Artificial Narrow Intelligence - ANI - Stage 1
-- Artificial General Intelligence - AGI - Stage 2
-- Artificial Super Intelligence - ASI - Stage 3
-
-## Artificial Narrow Intelligence - ANI - Stage 1
-- Solve one specific problem
-- Surpass human level performance 
-- Narrow capabilities in controlled environments  
-- Face recogntion, automatic number plate recogntion
-
-## Artificial General Intelligence - AGI - Stage 2
-- Do anything a human can do
-- Theoretical concept
-- Collection of many Artificial Narrow Intelligence systems 
-
-## Artificial Super Intelligence - ASI - Stage 3
-- Surpass all human capabilities
-- Do even more things than any human can do
-- Relatively narrow gap between AGI and ASI - As little as a nanosecond 
- 
-# [AI Classification - Two]()
-- Weak AI
-- Strong AI
-
-## Weak AI
-- Artificial Narrow Intelligence
-
-## Strong AI
-- Artificial General Intelligence
-- Artificial Super Intelligence
-
-# What is Machine Learning ?
-- Improve through experience using data
-- A machine is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E.
-
-# [Machine Learning Classification]()
-- Supervised learning
-- Unsupervised learning
-- Reinforcement learning
-- Semi supervised learning
-- Self supervised learning
-
-## What is Supervised Learning ?
-- Labeled dataset - Annotated dataset - Paired input variables and output variables
-- Compute mapping from input variables to output variables
-
-## [What is Unsupervised Learning ?](https://www.ibm.com/cloud/learn/unsupervised-learning)
-- Unlabeled dataset - No annotations - Only input variables and no output variables or output annotations
-- Cluster or group input variables - Clustering model
-- Learn features or patterns from input variables - Feature learning model
-- Find relationships between input variables - Association Rules
+## Unsupervised Learning
+- [What is Unsupervised Learning ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
+- 
+## References
+- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+- [AI Classification - One](https://www.mygreatlearning.com/blog/what-is-artificial-intelligence/)
+- [What is Unsupervised Learning ?](https://www.ibm.com/cloud/learn/unsupervised-learning)
 
 ## What is Reinforcement Learning ?
 - Learn from experience
