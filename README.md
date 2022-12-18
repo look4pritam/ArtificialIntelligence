@@ -1,6 +1,6 @@
 # Topics
 
-## Artificial Intelligence
+## [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [What is AI ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 - [AI Classification](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 
@@ -8,9 +8,7 @@
 - [What is ML ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 - [ML Classification](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 
-# [What is AI ?](https://en.wikipedia.org/wiki/Artificial_intelligence)
-- Artificial Intelligence
-- Intelligence demonstrated by machines as opposed to natural intelligence displayed by animals
+## 
 
 # [AI Classification - One](https://www.mygreatlearning.com/blog/what-is-artificial-intelligence/)
 - Artificial Narrow Intelligence - ANI - Stage 1
