@@ -45,6 +45,7 @@
 - [Bias and Variance](https://github.com/look4pritam/ArtificialIntelligence/tree/master/DeepLearning/BiasAndVariance.pptx)
 - [Regularization](https://github.com/look4pritam/ArtificialIntelligence/tree/master/DeepLearning/Regularization.pptx)
 - [Weight Initialization](https://github.com/look4pritam/ArtificialIntelligence/tree/master/DeepLearning/WeightInitialization.pptx)
+- [Hyperparameter Search](https://github.com/look4pritam/ArtificialIntelligence/tree/master/DeepLearning/HyperparameterSearch.pptx)
 
 ## Machine Learning Project Lifecycle
 - [Project scoping](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
