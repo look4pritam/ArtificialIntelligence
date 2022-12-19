@@ -43,6 +43,7 @@
 - [Artificial Neural Network v/s Deep Neural Network](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 - [Data Splitting](https://github.com/look4pritam/ArtificialIntelligence/tree/master/DeepLearning/DataSplitting.pptx)
 - [Bias and Variance](https://github.com/look4pritam/ArtificialIntelligence/tree/master/DeepLearning/BiasAndVariance.pptx)
+- [Regularization](https://github.com/look4pritam/ArtificialIntelligence/tree/master/DeepLearning/Regularization.pptx)
 
 ## Machine Learning Project Lifecycle
 - [Project scoping](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
