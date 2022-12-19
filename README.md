@@ -44,7 +44,7 @@
 
 ## Machine Learning - Concepts
 - [Transfer Learning](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/TransferLearning.pptx)
--
+- [MultitaskLearning](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/MultitaskLearning.pptx)
 
 ## Artificial Neural Network
 - [What is Artificial Neural Network ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
