@@ -21,19 +21,16 @@
 - [Reinforcement Learning Terms](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 - [Reinforcement Learning Examples](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 
+## [Semi Supervised Learning](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
+- [What is Semi supervised Learning ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
+- [Semi Supervised Learning Examples](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
+
 ## References
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [AI Classification - One](https://www.mygreatlearning.com/blog/what-is-artificial-intelligence/)
 - [What is Unsupervised Learning ?](https://www.ibm.com/cloud/learn/unsupervised-learning)
 - [Reinforcement Learning Terms](https://www.youtube.com/watch?v=JgvyzIkgxF0)
-
-## [What is Semi supervised Learning ?](https://www.youtube.com/watch?v=tCaPH_bBoWM)
-- Supervised learning + unsupervised learning
-- Small - Labeled dataset and Large - Unlabeled dataset    
-- Train model using labeled dataset 
-- Pseudo labeling - Use trained model to label unlabeled dataset.
-- Train model using composite dataset and improve performance.
-- Labeled dataset - More weightage and Unlabeled dataset - Less weightage
+- [What is Semi supervised Learning ?](https://www.youtube.com/watch?v=tCaPH_bBoWM)
 
 ## What is Self supervised Learning ?
 - [Automatic annotations](https://medium.com/analytics-vidhya/what-is-self-supervised-learning-in-computer-vision-a-simple-introduction-def3302d883d)
