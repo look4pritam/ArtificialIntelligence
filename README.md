@@ -58,4 +58,5 @@
 - [Gray images to color images](https://www.youtube.com/watch?v=tCaPH_bBoWM)
 - [Predict next word - Language model](https://www.youtube.com/watch?v=tCaPH_bBoWM)
 - [Artificial neural network](https://playground.tensorflow.org/)
+- [Accelerate Performance of Neural Networks with Intel Movidius](https://www.youtube.com/watch?v=XAoolynqP3k)
 
