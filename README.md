@@ -46,7 +46,11 @@
 - [Project scoping](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
 - [Dataset collection](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
 - [Modelling](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
-- [Deployment](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
+- [Model Deployment](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
+
+## Model Deployment
+- [Cloud AI](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Deployment/CloudAI.pptx)
+- [Edge AI](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Deployment/EdgeAI.pptx)
 
 ## References
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
