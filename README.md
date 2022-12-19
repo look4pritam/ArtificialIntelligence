@@ -45,6 +45,7 @@
 ## Machine Learning - Concepts
 - [Transfer Learning](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/TransferLearning.pptx)
 - [Multitask Learning](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/MultitaskLearning.pptx)
+- [End To End Learning](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/EndToEndLearning.pptx)
 - [Interpretable Machine Learning](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/InterpretableMachineLearning.pptx)
 - [Explainable Machine Learning](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/ExplainableMachineLearning.pptx)
 
