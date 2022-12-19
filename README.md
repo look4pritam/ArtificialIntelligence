@@ -32,6 +32,16 @@
 - [What is Self Spervised Learning ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 - [Self Spervised Learning Examples](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 
+## Machine Learning Project Lifecycle
+- [Project scoping](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
+- [Dataset collection](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
+- [Modelling](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
+- [Model Deployment](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
+
+## Model Deployment
+- [Cloud AI](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Deployment/CloudAI.pptx)
+- [Edge AI](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Deployment/EdgeAI.pptx)
+
 ## Artificial Neural Network
 - [What is Artificial Neural Network ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 - [Artificial Neural Network Classification](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
@@ -47,16 +57,6 @@
 - [Weight Initialization](https://github.com/look4pritam/ArtificialIntelligence/tree/master/DeepLearning/WeightInitialization.pptx)
 - [Hyperparameter Search](https://github.com/look4pritam/ArtificialIntelligence/tree/master/DeepLearning/HyperparameterSearch.pptx)
 - [Batch Normalization](https://github.com/look4pritam/ArtificialIntelligence/tree/master/DeepLearning/BatchNormalization.pptx)
-
-## Machine Learning Project Lifecycle
-- [Project scoping](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
-- [Dataset collection](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
-- [Modelling](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
-- [Model Deployment](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
-
-## Model Deployment
-- [Cloud AI](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Deployment/CloudAI.pptx)
-- [Edge AI](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Deployment/EdgeAI.pptx)
 
 ## References
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
