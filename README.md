@@ -10,24 +10,22 @@
 
 ## Supervised Learning
 - [What is Supervised Learning ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
+- [Supervised Learning Examples](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 
 ## Unsupervised Learning
 - [What is Unsupervised Learning ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
-- 
+- [Unsupervised Learning Examples](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
+
+## Reinforcement Learning
+- [What is Reinforcement Learning ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
+- [Reinforcement Learning Terms](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
+- [Reinforcement Learning Examples](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
+
 ## References
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [AI Classification - One](https://www.mygreatlearning.com/blog/what-is-artificial-intelligence/)
 - [What is Unsupervised Learning ?](https://www.ibm.com/cloud/learn/unsupervised-learning)
-
-## What is Reinforcement Learning ?
-- Learn from experience
-- Take suitable action to maximize reward in particular situation
-
-## [Reinforcement Learning Terms](https://www.youtube.com/watch?v=JgvyzIkgxF0)
-- Dynamic system or environment
-- Agent interactions - Episodes
-- Feedback - Rewards or penalties
-- Objective - Maximize rewards - Exploration v/s exploitation
+- [Reinforcement Learning Terms](https://www.youtube.com/watch?v=JgvyzIkgxF0)
 
 ## [What is Semi supervised Learning ?](https://www.youtube.com/watch?v=tCaPH_bBoWM)
 - Supervised learning + unsupervised learning
