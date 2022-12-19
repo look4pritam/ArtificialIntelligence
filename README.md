@@ -41,6 +41,7 @@
 - [Why is Deep Learning successful ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 - [Machine Learning v/s Deep Learning](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 - [Artificial Neural Network v/s Deep Neural Network](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
+- [Data Splitting](https://github.com/look4pritam/ArtificialIntelligence/tree/master/DeepLearning/DataSplitting.pptx)
 
 ## Machine Learning Project Lifecycle
 - [Project scoping](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MLLifeCycle/MachineLearningProjectLifecycle.pptx)
