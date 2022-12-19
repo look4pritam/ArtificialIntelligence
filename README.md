@@ -42,6 +42,10 @@
 - [Cloud AI](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Deployment/CloudAI.pptx)
 - [Edge AI](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Deployment/EdgeAI.pptx)
 
+## Machine Learning - Concepts
+- [Transfer Learning](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/TransferLearning.pptx)
+-
+
 ## Artificial Neural Network
 - [What is Artificial Neural Network ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 - [Artificial Neural Network Classification](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
