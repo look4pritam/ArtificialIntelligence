@@ -38,6 +38,7 @@
 
 ## Deep Learning
 - [What is Deep learning ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
+- [Why is Deep Learning successful ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 - [Machine Learning v/s Deep Learning](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 - [Artificial Neural Network v/s Deep Neural Network](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 
@@ -51,12 +52,4 @@
 - [Gray images to color images](https://www.youtube.com/watch?v=tCaPH_bBoWM)
 - [Predict next word - Language model](https://www.youtube.com/watch?v=tCaPH_bBoWM)
 - [Artificial neural network](https://playground.tensorflow.org/)
-
-
-
-## Why Deep Learning ?
-- Large amount of data - Internet of Things - IoT
-- Faster hardware - GPU
-- Better algorithms - Residual networks, ReLU activation  
-
 
