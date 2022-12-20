@@ -90,6 +90,7 @@
 - [How is Recurrent Neural Network implemented ?](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-Introduction.pptx)
 - [Back propagation through time](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-Introduction.pptx)
 - [Different types of RNN](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-Introduction.pptx)
+- [Word Embeddings](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-WordEmbeddings.pptx)
 
 ## References
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
