@@ -94,7 +94,7 @@
 
 ## References
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
-- [AI Classification - One](https://www.mygreatlearning.com/blog/what-is-artificial-intelligence/)
+- [AI Classification](https://www.mygreatlearning.com/blog/what-is-artificial-intelligence/)
 - [What is Unsupervised Learning ?](https://www.ibm.com/cloud/learn/unsupervised-learning)
 - [Reinforcement Learning Terms](https://www.youtube.com/watch?v=JgvyzIkgxF0)
 - [What is Semi supervised Learning ?](https://www.youtube.com/watch?v=tCaPH_bBoWM)
