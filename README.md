@@ -84,6 +84,10 @@
 - [Network In Network](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ConvolutionalNeuralNetwork/NetworkInNetwork.pptx)
 - [MobileNet](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ConvolutionalNeuralNetwork/MobileNet.pptx)
 
+### Notebooks
+- [Autoencoder - DenoiseDocuments](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ConvolutionalNeuralNetwork/Notebooks/Autoencoder/DenoiseDocuments.ipynb)
+-
+
 ## Recurrent Neural Network
 - [RNN Applications](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-Introduction.pptx)
 - [Why is Recurrent Neural Network needed ?](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-Introduction.pptx)
