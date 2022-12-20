@@ -49,10 +49,6 @@
 - [Interpretable Machine Learning](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/InterpretableMachineLearning.pptx)
 - [Explainable Machine Learning](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/ExplainableMachineLearning.pptx)
 
-## Artificial Neural Network
-- [What is Artificial Neural Network ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
-- [Artificial Neural Network Classification](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
-
 ## Deep Learning
 - [What is Deep learning ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
 - [Why is Deep Learning successful ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
@@ -64,6 +60,16 @@
 - [Weight Initialization](https://github.com/look4pritam/ArtificialIntelligence/tree/master/DeepLearning/WeightInitialization.pptx)
 - [Hyperparameter Search](https://github.com/look4pritam/ArtificialIntelligence/tree/master/DeepLearning/HyperparameterSearch.pptx)
 - [Batch Normalization](https://github.com/look4pritam/ArtificialIntelligence/tree/master/DeepLearning/BatchNormalization.pptx)
+
+## Artificial Neural Network
+- [What is Artificial Neural Network ?](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
+- [Artificial Neural Network Classification](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ArtificialIntelligence/ArtificialIntelligence.pptx)
+- [Linear regression](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ArtificialNeuralNetwork/ArtificialNeuralNetwork.pptx)
+- [Logistic regression](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ArtificialNeuralNetwork/ArtificialNeuralNetwork.pptx)
+- [Gradient descent](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ArtificialNeuralNetwork/ArtificialNeuralNetwork.pptx)
+- [Gradient descent for logistic regression](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ArtificialNeuralNetwork/ArtificialNeuralNetwork.pptx)
+- [Back propagation for neural network](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ArtificialNeuralNetwork/ArtificialNeuralNetwork.pptx)
+- [Activation functions](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ArtificialNeuralNetwork/ArtificialNeuralNetwork.pptx)
 
 ## Convolutional Neural Network
 - [What is Convolutional Neural Network ?](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ConvolutionalNeuralNetwork/ConvolutionalNeuralNetwork.pptx)
