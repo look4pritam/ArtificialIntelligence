@@ -84,6 +84,13 @@
 - [Network In Network](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ConvolutionalNeuralNetwork/NetworkInNetwork.pptx)
 - [MobileNet](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ConvolutionalNeuralNetwork/MobileNet.pptx)
 
+## Recurrent Neural Network
+- [RNN Applications](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-Introduction.pptx)
+- [Why is Recurrent Neural Network needed ?](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-Introduction.pptx)
+- [How is Recurrent Neural Network implemented ?](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-Introduction.pptx)
+- [Back propagation through time](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-Introduction.pptx)
+- [Different types of RNN](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-Introduction.pptx)
+
 ## References
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [AI Classification - One](https://www.mygreatlearning.com/blog/what-is-artificial-intelligence/)
