@@ -72,6 +72,12 @@
 - [Pooling layer](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ConvolutionalNeuralNetwork/ConvolutionalNeuralNetwork.pptx)  
 - [CNN v/s ANN](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ConvolutionalNeuralNetwork/ConvolutionalNeuralNetwork.pptx)
 
+## Convolutional Neural Network Architectures
+- [Visual Geometry Group Network](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ConvolutionalNeuralNetwork/VGGNetwork.pptx)
+- [Residual Network](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ConvolutionalNeuralNetwork/ResidualNetwork.pptx)
+- [Network In Network](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ConvolutionalNeuralNetwork/NetworkInNetwork.pptx)
+- [MobileNet](https://github.com/look4pritam/ArtificialIntelligence/tree/master/ConvolutionalNeuralNetwork/MobileNet.pptx)
+
 ## References
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [AI Classification - One](https://www.mygreatlearning.com/blog/what-is-artificial-intelligence/)
