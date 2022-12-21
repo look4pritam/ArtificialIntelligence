@@ -86,7 +86,7 @@
 
 ### Notebooks
 - [Autoencoder - DenoiseDocuments](https://github.com/look4pritam/ArtificialIntelligence/blob/master/ConvolutionalNeuralNetwork/Notebooks/Autoencoder/DenoiseDocuments.ipynb)
--
+
 
 ## Recurrent Neural Network
 - [RNN Applications](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-Introduction.pptx)
@@ -95,6 +95,13 @@
 - [Back propagation through time](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-Introduction.pptx)
 - [Different types of RNN](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-Introduction.pptx)
 - [Word Embeddings](https://github.com/look4pritam/ArtificialIntelligence/tree/master/RecurrentNeuralNetwork/RecurrentNeuralNetwork-WordEmbeddings.pptx)
+
+## Generative Adversarial Network
+- [Generative Adversarial Network](https://github.com/look4pritam/ArtificialIntelligence/blob/master/GenerativeAdversarialNetworks/GenerativeAdversarialNetwork.pptx)
+
+### Notebooks
+- [GAN](https://github.com/look4pritam/ArtificialIntelligence/blob/master/GenerativeAdversarialNetworks/Notebooks/GAN.ipynb)
+- [DCGAN](https://github.com/look4pritam/ArtificialIntelligence/blob/master/GenerativeAdversarialNetworks/Notebooks/DCGAN.ipynb)
 
 ## References
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
