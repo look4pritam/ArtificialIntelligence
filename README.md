@@ -46,6 +46,7 @@
 - [Gini index](https://github.com/look4pritam/ArtificialIntelligence/blob/master/MachineLearning/DecisionTree.pptx)
 - Notebooks
   - [Decision Tree Classifier](https://github.com/look4pritam/ArtificialIntelligence/blob/master/MachineLearning/Notebooks/DecisionTree/DecisionTreeClassifier.ipynb)
+  - [Hyperparameter selection](https://github.com/look4pritam/ArtificialIntelligence/blob/master/MachineLearning/Notebooks/DecisionTree/HyperparameterSelection.ipynb)
   
 ## Machine Learning - Concepts
 - [Transfer Learning](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/TransferLearning.pptx)
