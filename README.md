@@ -42,6 +42,11 @@
 - [Cloud AI](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Deployment/CloudAI.pptx)
 - [Edge AI](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Deployment/EdgeAI.pptx)
 
+## Decision Tree
+- [Gini index](https://github.com/look4pritam/ArtificialIntelligence/blob/master/MachineLearning/DecisionTree.pptx)
+- Notebooks
+  - [Decision Tree Classifier](https://github.com/look4pritam/ArtificialIntelligence/blob/master/MachineLearning/Notebooks/DecisionTree/DecisionTreeClassifier.ipynb)
+  
 ## Machine Learning - Concepts
 - [Transfer Learning](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/TransferLearning.pptx)
 - [Multitask Learning](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/MultitaskLearning.pptx)
