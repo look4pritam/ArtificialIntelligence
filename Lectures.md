@@ -14,6 +14,9 @@
 - Reinforcement Learning
 - Semi Supervised Learning
 - Self Spervised Learning
+- Deep Learning
+- What is Deep Learning ?
+- Machine Learning v/s Deep Learning
 
 ## Introduction - Machine Learning Project Lifecycle - 2 Hours
 
