@@ -1,3 +1,5 @@
+# (4 / 25) - Done
+
 # Machine Learning & Deep Learning
 
 ## Introduction - AI and ML
@@ -59,8 +61,19 @@
 - Classification model
 - Regression model
 
-### Lecture 9 - 2 Hours
--
+## Modelling - Convolutional Neural Network
+
+### Lecture 9 - Theory - 1 Hour
+- Applications of CNN
+- Convolution
+- Image convolution
+- Convolution layer
+- Pooling layer
+- ANN v/s CNN
+
+### Lecture 9 - Practical - 1 Hour
+- Image classification
+- Autoencoder - Denoise documents
 
 ### Lecture 10 - 2 Hours
 -
