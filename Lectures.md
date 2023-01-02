@@ -1,4 +1,4 @@
-# (4 / 25) - Done
+# (5 / 25) - Done
 
 # Machine Learning & Deep Learning
 
@@ -75,8 +75,13 @@
 - Image classification
 - Autoencoder - Denoise documents
 
+## Modelling - CNN Architectures
+
 ### Lecture 10 - 2 Hours
--
+- VGG network
+- Residual network
+- Network in network
+- MobileNet
 
 ### Lecture 11 - 2 Hours
 -
