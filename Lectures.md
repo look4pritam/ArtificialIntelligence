@@ -18,8 +18,8 @@
 ## Introduction - Machine Learning Project Lifecycle - 2 Hours
 
 ### Lecture 2 - 2 Hours
-- Project scoping
-- Dataset collection
+- Project Scoping
+- Dataset Collection
 - Modelling
 - Model Deployment
 
