@@ -1,4 +1,4 @@
-# (5 / 25) - Done
+# (6 / 25) - Done
 
 # Machine Learning & Deep Learning
 
@@ -64,7 +64,7 @@
 ## Modelling - Convolutional Neural Network
 
 ### Lecture 9 - Theory - 1 Hour
-- Applications of CNN
+- CNN applications
 - Convolution
 - Image convolution
 - Convolution layer
@@ -83,8 +83,20 @@
 - Network in network
 - MobileNet
 
-### Lecture 11 - 2 Hours
--
+## Modelling - Recurrent Neural Network
+
+### Lecture 11 - RNN - 1 Hour
+- RNN applications
+- RNN model
+- Back propagation through time
+- Different types of RNN
+
+### Lecture 11 - Word Embeddings - 1 Hour
+- Featurized representation
+- Visualizing word embeddings
+- Using word embeddings
+- Embedding matrix
+- Learning word embeddings
 
 ### Lecture 12 - 2 Hours
 -
