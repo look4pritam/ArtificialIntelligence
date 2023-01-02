@@ -26,6 +26,8 @@
 - Modelling
 - Model Deployment
 
+## Modelling - Machine Learning 
+
 ### Lecture 3 - 2 Hours
 -
 
@@ -41,8 +43,21 @@
 ### Lecture 7 - 2 Hours
 -
 
-### Lecture 8 - 2 Hours
--
+## Modelling - Artificial Neural Network
+
+### Lecture 8 - Theory - 1 Hour
+- What is Artificial Neural Network (ANN) ?
+- ANN Classification
+- Linear regression
+- Logistic regression
+- Gradient descent
+- Gradient descent for logistic regression
+- Back propagation for neural network
+- Activation functions
+
+### Lecture 8 - Practical - 1 Hour
+- Classification model
+- Regression model
 
 ### Lecture 9 - 2 Hours
 -
