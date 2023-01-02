@@ -1,6 +1,6 @@
 # Machine Learning & Deep Learning
 
-## Introduction 
+## Introduction - AI and ML
 
 ### Lecture 1 - 2 Hours
 - Artificial Intelligence (AI)
