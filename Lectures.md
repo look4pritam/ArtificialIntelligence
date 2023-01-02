@@ -28,10 +28,16 @@
 - Modelling
 - Model Deployment
 
-## Modelling - Machine Learning 
+## Modelling - Machine Learning - K Means Clustering 
 
-### Lecture 3 - 2 Hours
--
+### Lecture 3 - Theory + Practical - 1 Hours
+- Theory
+  - K means clustering
+- Practicals
+  - Algorithm 
+  - Elbow method 
+
+### Lecture 3 - Theory + Practical - 1 Hours
 
 ### Lecture 4 - 2 Hours
 -
