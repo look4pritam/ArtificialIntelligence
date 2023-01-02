@@ -15,5 +15,12 @@
 - Semi Supervised Learning
 - Self Spervised Learning
 
+## Introduction - Machine Learning Project Lifecycle - 2 Hours
+
 ### Lecture 2 - 2 Hours
-- 
+- Project scoping
+- Dataset collection
+- Modelling
+- Model Deployment
+
+
