@@ -1,4 +1,4 @@
-# (6 / 25) - Done
+# (6.5 / 25) - Done
 
 # Machine Learning & Deep Learning
 
@@ -37,8 +37,15 @@
   - Algorithm 
   - Elbow method 
 
-### Lecture 3 - Theory + Practical - 1 Hours
+## Modelling - Machine Learning - Decision Tree
 
+### Lecture 3 - Theory + Practical - 1 Hours
+- Theory
+  - Decision tree classifier
+- Practicals
+  - Decision tree classifier 
+  - Hyperparameter selection
+  
 ### Lecture 4 - 2 Hours
 -
 
