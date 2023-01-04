@@ -45,8 +45,17 @@
 - Practicals
   - Decision tree classifier 
   - Hyperparameter selection
-  
-### Lecture 4 - 2 Hours
+
+## Modelling - Machine Learning - Random Forest
+
+### Lecture 4 - Theory + Practical - 1 Hours
+- Theory
+  - Random forest classifier
+- Practicals
+  - Random forest classifier 
+  - Hyperparameter selection
+
+### Lecture 4 -  1 Hours
 -
 
 ### Lecture 5 - 2 Hours
