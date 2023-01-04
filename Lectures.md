@@ -1,4 +1,4 @@
-# (6.5 / 25) - Done
+# (7.5 / 25) - Done
 
 # Machine Learning & Deep Learning
 
