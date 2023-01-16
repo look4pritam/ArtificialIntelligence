@@ -38,6 +38,16 @@
 ### Lecture 3 - Theory + Practical - 1 Hours
 - Google Colab 
 
+## Introduction - Mathematics 
+
+### Lecture 4 - 1 Hours
+- Histograms
+- Probability distributions
+- Normal distribution
+- Population parameters 
+- Estimated parameters
+- Mean, variance and standard deviation
+
 ## Modelling - Machine Learning - K Means Clustering 
 
 ### Lecture 4 - Theory + Practical - 1 Hours
@@ -49,7 +59,7 @@
 
 ## Modelling - Machine Learning - Decision Tree
 
-### Lecture 4 - Theory + Practical - 1 Hours
+### Lecture 5 - Theory + Practical - 1 Hours
 - Theory
   - Decision tree classifier
 - Practicals
@@ -64,9 +74,6 @@
 - Practicals
   - Random forest classifier 
   - Hyperparameter selection
-
-### Lecture 5 -  1 Hours
--
 
 ## Modelling - Machine Learning - Linear Regression
 
@@ -84,9 +91,22 @@
 - Practicals
   - Logistic regression
 
-### Lecture 7 - 2 Hours
--
+## Modelling - Machine Learning - Support Vector Machine
 
+### Lecture 7 - Theory + Practical - 1 Hours
+- Theory
+  - Support Vector Machine
+- Practicals
+  - Support Vector Machine
+
+## Modelling - Machine Learning - Principal Component Analysis
+
+### Lecture 7 - Theory + Practical - 1 Hours
+- Theory
+  - Principal Component Analysis
+- Practicals
+  - Principal Component Analysis
+  
 ## Modelling - Artificial Neural Network
 
 ### Lecture 8 - Theory - 1 Hour
