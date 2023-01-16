@@ -263,11 +263,34 @@
 - Weight decay
 - Data augmentation 
 
-### Lecture 22 - 2 Hours
--
+## Model Deployment - Interpretable AI & Explainable AI
 
-### Lecture 23 - 2 Hours
--
+### Lecture 22 - Interpretable AI & Explainable AI - 2 Hour
+- Theory
+  - Interpretable AI
+  - Explainable AI
+  - Interpretable AI v/s Explainable AI
+- Practical
+  - Interpretable AI
+  - Explainable AI
+
+## Introduction - Machine Learning Design Patterns
+
+### Lecture 23 - Machine Learning Design Patterns - 2 Hours
+- Problem representation design patterns
+  - Reframing design pattern
+  - Ensables design pattern 
+  - Rebalancing design pattern
+- Model training design patterns
+  - Transfer learning design pattern
+  - Checkpoints design pattern
+- Reproducibility design patterns
+  - Transform design pattern
+  - Model versioning design pattern
+- Responsible AI design patterns
+  - Fairness lens design pattern 
+
+## Project Scoping - Applications
 
 ### Lecture 24 - 2 Hours
 -
