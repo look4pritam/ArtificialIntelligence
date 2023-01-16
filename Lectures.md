@@ -1,5 +1,7 @@
 # (7.5 / 25) - Done
 
+# Plan ( 13 / 25 ) Done
+
 # Machine Learning & Deep Learning
 
 ## Introduction - AI, ML and DL
@@ -181,14 +183,33 @@
 ### Lecture 15 - 2 Hours
 -
 
-### Lecture 16 - 2 Hours
--
+## Modelling - Self Spervised Learning
+
+### Lecture 16 - Self Spervised Learning - 1 Hour
+- Theory
+- Practical - Gray to color image conversion
+
+### Lecture 16 - Semi Supervised Learning - 1 Hour
+- Theory
+- Practical
 
 ### Lecture 17 - 2 Hours
 -
 
-### Lecture 18 - 2 Hours
--
+## Dataset Collection - Open Dataset
+
+### Lecture 18 - Open Dataset - Theory - 1 Hour
+- ImageNet
+- Open Images Dataset
+- Microsoft Common Objects in Context - MS COCO dataset
+- Chinese City Parking Dataset - CCPD
+
+### Lecture 18 - TensorFlow Dataset - Practical - 1 Hour
+- Kaggle
+- TensorFlow Dataset
+- Datahub.i0
+- Batch normalization
+- Instance normalization
 
 ### Lecture 19 - 2 Hours
 -
