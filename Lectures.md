@@ -76,6 +76,14 @@
 - Practicals
   - Linear regression
 
+## Modelling - Machine Learning - Logistic Regression
+
+### Lecture 6 - Theory + Practical - 1 Hours
+- Theory
+  - Logistic regression
+- Practicals
+  - Logistic regression
+
 ### Lecture 7 - 2 Hours
 -
 
