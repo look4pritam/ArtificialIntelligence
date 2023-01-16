@@ -177,11 +177,17 @@
 ### Lecture 13 - 2 Hours
 -
 
-### Lecture 14 - 2 Hours
--
+## Modelling - Neural Architecture Search
 
-### Lecture 15 - 2 Hours
--
+### Lecture 14 - Neural Architecture Search - 2 Hours
+- Theory
+- Practical
+
+## Modelling - Reinforcement Learning
+
+### Lecture 15 - Reinforcement Learning - 2 Hours
+- Theory
+- Practical
 
 ## Modelling - Self Spervised Learning
 
