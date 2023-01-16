@@ -214,8 +214,21 @@
 ### Lecture 19 - 2 Hours
 -
 
-### Lecture 20 - 2 Hours
--
+## Model Deployment - Edge Computing
+
+### Lecture 20 - Edge Computing - Theory - 1 Hour
+- CPU
+- GPU
+- TPU
+- Raspberry pi
+- NVIDIA Jetson
+- NVIDIA Xavier
+- NVIDIA Orin
+- Google Coral
+- NVIDIA TensorRT
+
+### Lecture 20 - Edge Computing - Practical - 1 Hour
+- NVIDIA TensorRT - Image classification
 
 ### Lecture 21 - 2 Hours
 -
