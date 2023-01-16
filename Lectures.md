@@ -214,7 +214,17 @@
 - Batch normalization
 - Instance normalization
 
-### Lecture 19 - 2 Hours
+## Dataset Collection - Feature Engineering & Data Augmentation
+
+### Lecture 19 - Feature Engineering - 1/2 Hour
+- Feature selection
+- Principal Component Analysis
+
+### Lecture 19 - Data Augmentation - 1/2 Hour
+- Data Driven AI development
+- Data augmentation
+
+### Lecture 19 - 1 Hour
 -
 
 ## Model Deployment - Edge Computing
