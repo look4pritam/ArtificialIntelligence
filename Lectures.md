@@ -160,8 +160,17 @@
 - Embedding matrix
 - Learning word embeddings
 
-### Lecture 12 - 2 Hours
--
+## Modelling - Generative Adversarial Networks
+
+### Lecture 12 - Theory - 1 Hours
+- Generative Adversarial Networks
+- Feature engineering
+- Generator
+- Discriminator
+
+### Lecture 12 - Practical - 1 Hours
+- GAN
+- DCGAN
 
 ### Lecture 13 - 2 Hours
 -
