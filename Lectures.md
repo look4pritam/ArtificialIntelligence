@@ -2,7 +2,7 @@
 
 # Machine Learning & Deep Learning
 
-## Introduction - AI and ML
+## Introduction - AI, ML and DL
 
 ### Lecture 1 - 2 Hours
 - Artificial Intelligence (AI)
@@ -28,9 +28,19 @@
 - Modelling
 - Model Deployment
 
-## Modelling - Machine Learning - K Means Clustering 
+## Introduction - Python
 
 ### Lecture 3 - Theory + Practical - 1 Hours
+- Python 
+
+## Introduction - Google Colab
+
+### Lecture 3 - Theory + Practical - 1 Hours
+- Google Colab 
+
+## Modelling - Machine Learning - K Means Clustering 
+
+### Lecture 4 - Theory + Practical - 1 Hours
 - Theory
   - K means clustering
 - Practicals
@@ -39,7 +49,7 @@
 
 ## Modelling - Machine Learning - Decision Tree
 
-### Lecture 3 - Theory + Practical - 1 Hours
+### Lecture 4 - Theory + Practical - 1 Hours
 - Theory
   - Decision tree classifier
 - Practicals
@@ -48,21 +58,23 @@
 
 ## Modelling - Machine Learning - Random Forest
 
-### Lecture 4 - Theory + Practical - 1 Hours
+### Lecture 5 - Theory + Practical - 1 Hours
 - Theory
   - Random forest classifier
 - Practicals
   - Random forest classifier 
   - Hyperparameter selection
 
-### Lecture 4 -  1 Hours
+### Lecture 5 -  1 Hours
 -
 
-### Lecture 5 - 2 Hours
--
+## Modelling - Machine Learning - Linear Regression
 
-### Lecture 6 - 2 Hours
--
+### Lecture 6 - Theory + Practical - 1 Hours
+- Theory
+  - Linear regression
+- Practicals
+  - Linear regression
 
 ### Lecture 7 - 2 Hours
 -
