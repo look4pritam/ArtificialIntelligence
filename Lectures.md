@@ -305,7 +305,12 @@
 
 ## Project Scoping - Applications
 
-### Lecture 24 - 2 Hours
+### Lecture 24 - 1 Hour
+- Image classification
+- Object detection
+- Image segmentation
+
+### Lecture 24 - 1 Hour
 -
 
 ### Lecture 25 - 2 Hours
