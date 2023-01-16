@@ -33,16 +33,12 @@
 ## Introduction - Python
 
 ### Lecture 3 - Theory + Practical - 1 Hours
-- Python 
-
-## Introduction - Google Colab
-
-### Lecture 3 - Theory + Practical - 1 Hours
-- Google Colab 
+- Python
+- Google Colab  
 
 ## Introduction - Mathematics 
 
-### Lecture 4 - 1 Hours
+### Lecture 3 - 1 Hours
 - Histograms
 - Probability distributions
 - Normal distribution
@@ -61,7 +57,7 @@
 
 ## Modelling - Machine Learning - Decision Tree
 
-### Lecture 5 - Theory + Practical - 1 Hours
+### Lecture 4 - Theory + Practical - 1 Hours
 - Theory
   - Decision tree classifier
 - Practicals
@@ -79,7 +75,7 @@
 
 ## Modelling - Machine Learning - Linear Regression
 
-### Lecture 6 - Theory + Practical - 1 Hours
+### Lecture 5 - Theory + Practical - 1 Hours
 - Theory
   - Linear regression
 - Practicals
@@ -95,7 +91,7 @@
 
 ## Modelling - Machine Learning - Support Vector Machine
 
-### Lecture 7 - Theory + Practical - 1 Hours
+### Lecture 6 - Theory + Practical - 1 Hours
 - Theory
   - Support Vector Machine
 - Practicals
@@ -108,6 +104,17 @@
   - Principal Component Analysis
 - Practicals
   - Principal Component Analysis
+  
+## Modelling - Machine Learning - Naive Bayes Classifier
+
+### Lecture 7 - Theory + Practical - 1 Hours
+- Theory
+  - Probability 
+  - Baye's rule
+  - Naive Bayes
+  - Laplacian smoothing
+- Practicals
+  - Naive Bayes Classifier
   
 ## Modelling - Artificial Neural Network
 
