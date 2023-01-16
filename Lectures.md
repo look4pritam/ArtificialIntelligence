@@ -193,8 +193,11 @@
 - Theory
 - Practical
 
-### Lecture 17 - 2 Hours
--
+## Modelling - Graph Neural Networks
+
+### Lecture 17 - Graph Neural Networks - 2 Hours
+- Theory
+- Practical
 
 ## Dataset Collection - Open Dataset
 
