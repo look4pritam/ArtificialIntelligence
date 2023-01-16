@@ -230,8 +230,25 @@
 ### Lecture 20 - Edge Computing - Practical - 1 Hour
 - NVIDIA TensorRT - Image classification
 
-### Lecture 21 - 2 Hours
--
+## Model Deployment - Cloud Computing
+
+### Lecture 21 - Cloud Computing - Practical - 1 Hour
+- REST API
+- gRPC
+- NVIDIA Triton Inference Server
+
+## Model Deployment - Model Monitoring
+
+### Lecture 21 - Model Monitoring - 1 Hour
+- Bias
+- Variance
+- Bias and variance tradeoff
+- Reduce bias 
+- Reduce variance
+- Regularization
+- Dropout
+- Weight decay
+- Data augmentation 
 
 ### Lecture 22 - 2 Hours
 -
