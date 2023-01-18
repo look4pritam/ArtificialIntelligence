@@ -1,6 +1,6 @@
-# (7.5 / 25) - Done
+# (8 / 25) - Done
 
-# Plan ( 14 / 25 ) Done
+# Plan ( 23 / 25 ) Done
 
 # Machine Learning & Deep Learning
 
