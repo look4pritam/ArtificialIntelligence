@@ -30,11 +30,12 @@
 - Modelling
 - Model Deployment
 
-## Introduction - Python
+## Introduction - Python, Google Colab, and Machine Learning Frameworks
 
 ### Lecture 3 - Theory + Practical - 1 Hours
 - Python
-- Google Colab  
+- Google Colab
+- Machine Learning Frameworks  
 
 ## Introduction - Mathematics 
 
@@ -181,8 +182,13 @@
 - GAN
 - DCGAN
 
+## Modelling - Hyperparameter Search
+
 ### Lecture 13 - 2 Hours
--
+- Parameters
+- Hyperparameters
+- Parameters v/s hyperparameters
+- 
 
 ## Modelling - Neural Architecture Search
 
@@ -240,7 +246,7 @@
 ### Lecture 19 - 1 Hour
 -
 
-## Model Deployment - Edge Computing
+## Model Deployment - Edge AI
 
 ### Lecture 20 - Edge Computing - Theory - 1 Hour
 - CPU
@@ -253,12 +259,12 @@
 - Google Coral
 - NVIDIA TensorRT
 
-### Lecture 20 - Edge Computing - Practical - 1 Hour
+### Lecture 20 - Edge AI - Practical - 1 Hour
 - NVIDIA TensorRT - Image classification
 
-## Model Deployment - Cloud Computing
+## Model Deployment - Cloud AI
 
-### Lecture 21 - Cloud Computing - Practical - 1 Hour
+### Lecture 21 - Cloud AI - Practical - 1 Hour
 - REST API
 - gRPC
 - NVIDIA Triton Inference Server
@@ -309,9 +315,12 @@
 - Image classification
 - Object detection
 - Image segmentation
+- Image captioning
 
 ### Lecture 24 - 1 Hour
--
+- Machine translation - LSTM
+- Machine translation - Transformer
+- 
 
 ### Lecture 25 - 2 Hours
 -
