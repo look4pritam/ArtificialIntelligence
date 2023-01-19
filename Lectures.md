@@ -35,7 +35,12 @@
 ### Lecture 3 - Theory + Practical - 1 Hours
 - Python
 - Google Colab
-- Machine Learning Frameworks  
+- Machine Learning Frameworks
+  - TensorFlow 
+  - Keras
+  - PyTorch
+  - MXNet
+  - Scikit Learn   
 
 ## Introduction - Mathematics 
 
