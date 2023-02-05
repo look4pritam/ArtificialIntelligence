@@ -4,26 +4,6 @@
 
 # Machine Learning & Deep Learning
 
-## Introduction - Machine Learning Project Lifecycle - 2 Hours
-
-### Lecture 2 - 2 Hours
-- Project Scoping
-- Dataset Collection
-- Modelling
-- Model Deployment
-
-## Introduction - Python, Google Colab, and Machine Learning Frameworks
-
-### Lecture 3 - Theory + Practical - 1 Hours
-- Python
-- Google Colab
-- Machine Learning Frameworks
-  - TensorFlow 
-  - Keras
-  - PyTorch
-  - MXNet
-  - Scikit Learn   
-
 ## Introduction - Mathematics 
 
 ### Lecture 3 - 1 Hours
