@@ -1,6 +1,7 @@
 # Topics
 
 - [Introduction](Introduction) - 5 Hours
+- [Modelling](Modelling) - Hours
 
 ## References
 - [Artificial neural network](https://playground.tensorflow.org/)
