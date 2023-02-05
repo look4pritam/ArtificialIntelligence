@@ -4,24 +4,6 @@
 
 # Machine Learning & Deep Learning
 
-## Introduction - AI, ML and DL
-
-### Lecture 1 - 2 Hours
-- Artificial Intelligence (AI)
-- What is AI ?
-- AI Classification
-- Machine Learning (ML)
-- What is ML ?
-- ML Classification
-- Supervised Learning
-- Unsupervised Learning
-- Reinforcement Learning
-- Semi Supervised Learning
-- Self Spervised Learning
-- Deep Learning
-- What is Deep Learning ?
-- Machine Learning v/s Deep Learning
-
 ## Introduction - Machine Learning Project Lifecycle - 2 Hours
 
 ### Lecture 2 - 2 Hours
