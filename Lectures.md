@@ -1,7 +1,3 @@
-# (8 / 25) - Done
-
-# Plan ( 23 / 25 ) Done
-
 # Machine Learning & Deep Learning
 
 ## Introduction - Mathematics 
