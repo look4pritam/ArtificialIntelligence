@@ -41,22 +41,6 @@
   - Random forest classifier 
   - Hyperparameter selection
 
-## Modelling - Machine Learning - Linear Regression
-
-### Lecture 5 - Theory + Practical - 1 Hours
-- Theory
-  - Linear regression
-- Practicals
-  - Linear regression
-
-## Modelling - Machine Learning - Logistic Regression
-
-### Lecture 6 - Theory + Practical - 1 Hours
-- Theory
-  - Logistic regression
-- Practicals
-  - Logistic regression
-
 ## Modelling - Machine Learning - Support Vector Machine
 
 ### Lecture 6 - Theory + Practical - 1 Hours
