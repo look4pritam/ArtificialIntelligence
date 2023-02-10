@@ -1,7 +1,7 @@
 # Topics
 
 - [Introduction](Introduction) - 5 Hours
-- [Machine Learning](Machine Learning) - 4 Hours
+- [Machine Learning](MachineLearning) - 4 Hours
 
 ## References
 - [Artificial neural network](https://playground.tensorflow.org/)
