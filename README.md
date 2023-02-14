@@ -1,6 +1,6 @@
 # Topics
 
-- [Introduction](Introduction) - 5 Hours
+- [Introduction](Introduction) - 4 Hours
 - [Machine Learning - Part 1](MachineLearning) - 4 Hours
 - [Artificial Neural Network](ArtificialNeuralNetwork) - 2 Hours 
 - [Machine Learning - Part 2](MachineLearning) - 6 Hours
