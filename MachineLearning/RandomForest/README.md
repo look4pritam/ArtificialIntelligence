@@ -2,6 +2,7 @@
 
 ## Topics
 - Bootstrapped dataset
+- Bagging
 - Decision tree
 - Random forest
 
