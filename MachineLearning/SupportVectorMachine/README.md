@@ -5,3 +5,4 @@
 - [Support Vector Machines Part 2: The Polynomial Kernel (Part 2 of 3)](https://www.youtube.com/watch?v=Toet3EiSFcM)
 - [Support Vector Machines Part 3: The Radial (RBF) Kernel (Part 3 of 3)](https://www.youtube.com/watch?v=Qc5IyLW_hns)
 - [Support Vector Machine (SVM) Basic Intuition- Part 1| Machine Learning](https://www.youtube.com/watch?v=H9yACitf-KM)
+- [Maths Intuition Behind Support Vector Machine Part 2 | Machine Learning Data Science](https://www.youtube.com/watch?v=Js3GLb1xPhc)
