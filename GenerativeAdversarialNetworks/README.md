@@ -1,10 +1,5 @@
 # Generative Adversarial Networks - GAN
 
-### GAN
-
-- Generator
-- Descriminator
-
 ### Discriminative Models
 - Classification models
   - Deep learning
@@ -47,4 +42,10 @@
   - Add noise
     - Generate realistic images
     - Generate different images
-    - 
+      
+### Generative Adversarial Network
+
+- GAN 
+- Generator
+- Descriminator
+
