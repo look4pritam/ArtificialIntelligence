@@ -38,3 +38,13 @@
     - Decode features / latent space
     - Reconstruct original input
 - Variational Auto Encoders
+  - Encoder
+    - Encode image onto whole distribution - Mean & Variance 
+  - Decoder
+    - Input
+      - Sample from distribution
+      - Noise
+  - Add noise
+    - Generate realistic images
+    - Generate different images
+    - 
