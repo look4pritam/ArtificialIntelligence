@@ -78,6 +78,3 @@
 - Compete with each other
 - Adversarial
 - Generative Adversarial Network
-
-
-
