@@ -49,3 +49,12 @@
 - Generator
 - Descriminator
 
+### Generator
+- Generate images
+-
+
+### Descriminator
+- Discriminative model
+- Classifier
+
+
