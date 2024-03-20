@@ -10,7 +10,6 @@
   - Deep learning
   - Classifiers
   - Input image - Features - Image class
-  - 
 
 ### Generative models
 - Generate images
@@ -20,3 +19,5 @@
 - Output
   - Features
   - Image
+- Noise - Latent space
+  - Generate different output images
