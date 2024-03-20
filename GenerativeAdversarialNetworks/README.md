@@ -21,3 +21,4 @@
   - Image
 - Noise - Latent space
   - Generate different output images
+  - Generate realistic images
