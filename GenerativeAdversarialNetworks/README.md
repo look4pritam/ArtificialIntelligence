@@ -51,10 +51,20 @@
 
 ### Generator
 - Generate images
--
+- Input
+  - Noise - Latent space
+  - Image class 
+- Output
+  - Features
+  - Image
+- Decoder - Autoencoder
 
 ### Descriminator
 - Discriminative model
 - Classifier
+- Real image v/s Fake image
+- Classify as either real or fake
+- Binary classifier
+- 
 
 
