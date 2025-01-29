@@ -1,10 +1,10 @@
 # Random Forest
 
 ## Topics
-- Bootstrapped dataset
-- Bagging
-- Decision tree
-- Random forest
+- [Bootstrapped dataset](Mathematics)
+- [Bagging](MachineLearning/EnsembleMethods)
+- [Decision tree](MachineLearning/DecisionTree)
+- [Random forest](MachineLearning/RandomForest)
 
 # References
 - [StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
