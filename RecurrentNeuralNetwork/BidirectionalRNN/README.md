@@ -1,1 +1,0 @@
-# Bidirectional Recurrent Neural Networks
