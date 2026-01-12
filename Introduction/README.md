@@ -1,9 +1,5 @@
 # Introduction
 
-## Topics
-- [Artificial Intelligence, Machine Learning and Deep Learning](Introduction) - Theory - 2 Hours
-- [Machine Learning Project Lifecycle](MachineLearningProjectLifecycle) - Theory - 2 Hours 
-
 ## References
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [AI Classification](https://www.mygreatlearning.com/blog/what-is-artificial-intelligence/)
